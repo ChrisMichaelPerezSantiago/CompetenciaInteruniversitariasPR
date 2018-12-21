@@ -1,29 +1,8 @@
-# programmingcontestpr
+# Programacion InterUniversitaria de Puerto Rico :construction: :hammer:
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**Author**
+-----------------
+Development Lead
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ - Chris M. Perez Santiago   chris.perez@upr.edu | chrisperezsantiago1@gmail.com
