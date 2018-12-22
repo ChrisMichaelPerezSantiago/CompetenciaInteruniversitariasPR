@@ -11,6 +11,7 @@
   export default {
     name: 'login',
     methods:{
+      // User Authentication for Login
       logIn(){
         var provider = new firebase.auth.GoogleAuthProvider();
         provider.addScope('https://www.googleapis.com/auth/contacts.readonly');
